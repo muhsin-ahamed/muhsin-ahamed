@@ -1,41 +1,168 @@
 <div align="center">
 
-<img src="profile.png" alt="Muhsin" width="160" style="border-radius:50%" />
+<img src="profile.png" alt="Muhsin Ahamed" width="160" />
 
-# Hi 👋, I'm Muhsin
+# 👋 Hi, I'm Muhsin Ahamed
 
-### 🚀 Flutter Developer building cross-platform apps from Kerala, India
+### 🚀 Flutter Developer | Cross-Platform App Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhsin-ahamed-t)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+**Building modern, scalable and user-friendly applications with Flutter.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhsin-ahamed-t)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhsin-ahamed)
 
 </div>
 
-### About Me
-- 🌱 Building production-ready apps with **Flutter** (Mobile, Web, Windows Desktop)
-- 🎨 Prototyping and delivering UI with **React**
-- 💬 Ask me about **Flutter, Dart, Supabase, Clean Architecture, Material 3**
-- 📫 Reach me: **YOUR_EMAIL**
+---
+
+## 👨‍💻 About Me
+
+I'm a **Flutter Developer from Kerala, India**, focused on building practical and production-ready applications across multiple platforms.
+
+* 🚀 Building applications with **Flutter & Dart**
+* 📱 Developing for **Android, Web & Windows**
+* 🎨 Creating modern and responsive user interfaces
+* ☁️ Working with **Supabase & Firebase**
+* 🧠 Exploring **AI integration in applications**
+* 🏗️ Interested in clean, scalable application architecture
+* 💡 Turning real-world problems into useful software
+
+---
 
 ## 🛠️ Tech Stack
 
-#### Mobile / Cross-Platform
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 📱 Mobile & Cross-Platform
 
-#### Backend & Tools
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
-## 📌 Featured Projects
+### 🌐 Web
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎭 [**Amia Fest (Askesis)**](https://github.com/muhsin-ahamed/festapp-all-data) · [Live](https://amiafestapp.vercel.app/#/public) | Arts fest management platform: registrations, judging, house scoring, results, plus a public portal | Flutter, Supabase |
-| 🕌 [**Madrasa Management System**](https://github.com/muhsin-ahamed/hidayathul-anam-madrasa-magnet-systems) | Role-based student and admin portal for a madrasa | Flutter Web, Supabase |
-| 💰 [**Adab Money Management**](https://github.com/muhsin-ahamed/adab-money-management-system) | Monthly payment management system | Web, Flutter |
-| 🛒 [**Maranoo**](https://github.com/muhsin-ahamed/maranoo) · [Live](https://maranoo.vercel.app/) | Offline-first, privacy-focused shopping list app with receipt capture ("Did you forget?") | Flutter, Hive, Material 3 |
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-**💼 Open to opportunities and freelance projects**
+### ☁️ Backend & Database
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### 🔧 Tools & Design
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎭 Amia Fest — Fest Management System
+
+A complete arts-fest management platform designed to handle registrations, programs, jury evaluation, team scoring, results and public displays.
+
+**Features**
+
+* 👨‍🎓 Student & team management
+* 🎯 Program registration
+* ⚖️ Jury mark entry
+* 🏆 Team points & ranking
+* 📊 Result management
+* 📺 Live TV display
+* 🌐 Public results portal
+
+**Tech:** Flutter • Node.js • Supabase
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhsin-ahamed/festapp-all-data)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://amiafestapp.vercel.app/#/public)
+
+---
+
+### 🕌 Madrasa Management System
+
+A role-based management platform for managing students, administration and madrasa-related activities.
+
+**Tech:** Flutter Web • Supabase
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhsin-ahamed/hidayathul-anam-madrasa-magnet-systems)
+
+---
+
+### 💰 Adab Money Management
+
+A web-based payment and financial management system designed to simplify monthly payment tracking and management.
+
+**Tech:** Flutter • Web
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhsin-ahamed/adab-money-management-system)
+
+---
+
+### 🛒 Maranoo
+
+An offline-first shopping assistant designed to help users remember items purchased during trips.
+
+**Features**
+
+* 🛍️ Shopping list management
+* 🧾 Receipt capture
+* ✅ Purchase tracking
+* 💾 Offline-first storage
+* 🔒 Privacy-focused design
+
+**Tech:** Flutter • Hive • Material 3
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhsin-ahamed/maranoo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://maranoo.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhsin-ahamed&theme=github_dark&hide_border=true&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsin-ahamed&theme=github_dark&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Muhsin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhsin-ahamed\&theme=github-dark\&hide_border=true)](https://github.com/muhsin-ahamed)
+
+</div>
+
+---
+
+## 🎯 What I'm Currently Working On
+
+* 🚀 Building production-ready **Flutter applications**
+* 🤖 Exploring **AI-powered application features**
+* ☁️ Improving **Supabase & backend architecture**
+* 🎨 Creating better **UI/UX experiences**
+* 📺 Developing real-time **event management and TV display systems**
+
+---
+
+## 💼 Open to Opportunities
+
+I'm open to:
+
+**Freelance Projects • Flutter Development • App Development • Collaboration**
+
+If you have an interesting project or idea, feel free to connect with me.
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something great together 🚀**
+
+</div>
+
