@@ -1,4 +1,4 @@
-<div align="center"> <img src="profile.png" alt="Muhsin" width="160" style="border-radius:50%" />
+<div align="center">
 
 #                                👋 Hi, I'm Muhsin Ahamed
 
