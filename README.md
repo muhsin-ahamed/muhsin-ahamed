@@ -24,25 +24,18 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 #### Backend & Tools
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📌 Featured Projects
-- **[Student Portal](https://github.com/muhsin-ahamed/hidayathul-anam-madrasa-magnet-systems)**: Role-based Flutter Web portal for students and admins
-- **MediCore HMS**: Flutter Hospital Management app for Windows Desktop + Web
-- **SplitEase**: Flutter expense-splitter app
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=muhsin-ahamed&theme=github_dark&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsin-ahamed&theme=github_dark&layout=compact&hide_border=true)
+| Project | Description | Stack |
+|---|---|---|
+| 🎭 [**Amia Fest (Askesis)**](https://github.com/muhsin-ahamed/festapp-all-data) · [Live](https://amiafestapp.vercel.app/#/public) | Arts fest management platform: registrations, judging, house scoring, results, plus a public portal | Flutter, Supabase |
+| 🕌 [**Madrasa Management System**](https://github.com/muhsin-ahamed/hidayathul-anam-madrasa-magnet-systems) | Role-based student and admin portal for a madrasa | Flutter Web, Supabase |
+| 💰 [**Adab Money Management**](https://github.com/muhsin-ahamed/adab-money-management-system) | Monthly payment management system | Web, Flutter |
+| 🛒 [**Maranoo**](https://github.com/muhsin-ahamed/maranoo) · [Live](https://maranoo.vercel.app/) | Offline-first, privacy-focused shopping list app with receipt capture ("Did you forget?") | Flutter, Hive, Material 3 |
 
 **💼 Open to opportunities and freelance projects**
