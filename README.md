@@ -113,7 +113,6 @@ An offline-first shopping assistant designed to help users remember items purcha
 ## 📈 Contribution Graph
 
 <div align="center">
-<div align="center">
 
 <picture>
   <source
@@ -130,8 +129,7 @@ An offline-first shopping assistant designed to help users remember items purcha
   />
 </picture>
 
-</div>
----
+</div>---
 
 ## 🎯 What I'm Currently Working On
 
