@@ -115,11 +115,24 @@ An offline-first shopping assistant designed to help users remember items purcha
 ## 📈 Contribution Graph
 
 <div align="center">
+<div align="center">
 
-[![Muhsin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhsin-ahamed\&theme=github-dark\&hide_border=true)](https://github.com/muhsin-ahamed)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/muhsin-ahamed/muhsin-ahamed/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/muhsin-ahamed/muhsin-ahamed/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/muhsin-ahamed/muhsin-ahamed/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
 ---
 
 ## 🎯 What I'm Currently Working On
