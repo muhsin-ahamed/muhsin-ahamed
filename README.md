@@ -68,7 +68,7 @@ A complete arts-fest management platform designed to handle registrations, progr
 **Tech:** Flutter • Node.js • Supabase
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhsin-ahamed/festapp-all-data)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://amiafestapp.vercel.app/#/public)
+[![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://amiafestapp.vercel.app/#/public)
 
 ---
 
@@ -107,20 +107,9 @@ An offline-first shopping assistant designed to help users remember items purcha
 **Tech:** Flutter • Hive • Material 3
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhsin-ahamed/maranoo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://maranoo.vercel.app/)
+[![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://maranoo.vercel.app/)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhsin-ahamed&theme=github_dark&hide_border=true&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsin-ahamed&theme=github_dark&layout=compact&hide_border=true" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
